@@ -4,8 +4,7 @@
 
 
 ### Casualties and Severity
-#### Total casualties after accidents:
-- This captures the overall number of casualties resulting from accidents.
+- Overall number of casualties resulting from accidents.
 - Casualties by accident severity: This further breaks down the casualties into different levels of severity, such as minor, serious, or fatal.
 
 
@@ -21,17 +20,23 @@
 ### Temporal Trends
 - Comparison of monthly casualty trends between 2021 and 2022: This examines the fluctuations and trends in casualty numbers over time, comparing different periods.
 
+https://github.com/user-attachments/assets/a87dbdc4-192d-42a2-8d36-e3e7db749d95
 ## Summary of Insights
+### Consistent Peak in November
+In both 2021 and 2022, the highest number of casualties occurred in the month of November.
+
+This indicates a recurring pattern that could be due to seasonal factors, road conditions, or other external variables.
 
 
 ## Reccomendations & Next Steps
 
-This project utilizes advanced data analysis techniques to help stakeholders like the Ministry of Transport, Police, and Emergency Services make data-driven decisions to improve road safety.
+### Focused Safety Campaigns in November
+Launch targeted road safety campaigns during November to raise awareness and reduce accident rates.
 
-https://github.com/user-attachments/assets/a87dbdc4-192d-42a2-8d36-e3e7db749d95
+Increase patrols and monitoring on high-risk roads during this month.
 
+### Predictive Modeling:
+Develop predictive models to forecast future casualty trends.
 
+Use these models to proactively address potential spikes in accident rates.
 
-METADATA:
-No of Rows: 3.07 Million
-No of Fields: 21
